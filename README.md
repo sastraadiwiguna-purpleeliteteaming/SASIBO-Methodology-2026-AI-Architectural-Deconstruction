@@ -1,3 +1,6 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18296511-blue?logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.18296511) = [doi.org/10.5281/zenodo.18296511](https://doi.org/10.5281/zenodo.18296511)
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7728--256X-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7728-256X) = [orcid.org/0009-0007-7728-256X](https://orcid.org/0009-0007-7728-256X)
 
 ---
 
@@ -143,4 +146,5 @@ The **S.A.S.I.B.O Methodology** marks the end of the "AI Mystery" era. By 2026, 
 — *SASTRA_ADI_WIGUNA (SASIBO2026.pdf)*
 
 ---
+
 
